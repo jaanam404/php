@@ -46,7 +46,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Fancy Number Guessing Game</h1>
+        <h1>A Simple Number Guessing Game</h1>
         <?php
         $min = 1;
         $max = 100;
