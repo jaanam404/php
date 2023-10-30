@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Fancy Number Guessing Game</title>
+    <title>Number Guessing Game</title>
     <style>
         body {
             font-family: Arial, sans-serif;
